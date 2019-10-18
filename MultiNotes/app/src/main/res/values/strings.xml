@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Multi Notes</string>
+
+    <string name="file_name">Notes.json</string>
+    <string name="encoding">UTF-8</string>
+    <string name="copyright">\u00A9 2019, Carol Marin</string>
+    <string name="no_file">New note</string>
+    <string name="saved">Note Saved!</string>
+    <string name="not_saved">Note Not Saved</string>
+</resources>
